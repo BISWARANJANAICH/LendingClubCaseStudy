@@ -38,7 +38,7 @@ Segmented Univariant Analysis
 Bivariant Analysis
 Observations & Insights based on Analysis
 
-##Technology Used:
+##**Technology Used:**
 
 Python 3.8 version
 
