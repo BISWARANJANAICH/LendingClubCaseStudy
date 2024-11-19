@@ -28,14 +28,23 @@ Enable better risk and portfolio management.
 
 
 ## Table of Contents
+
 Business Problem Understanding
+
 Business Objectives
+
 Data Understanding
+
 Data Cleaning & Manipulation
+
 Visualization of Data using IQR Method ,Box plot & Histogram
+
 Univariant Data Analysis
+
 Segmented Univariant Analysis
+
 Bivariant Analysis
+
 Observations & Insights based on Analysis
 
 ##**Technology Used:**
