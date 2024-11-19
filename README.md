@@ -39,6 +39,7 @@ Bivariant Analysis
 Observations & Insights based on Analysis
 
 ##Technology Used:
+
 Python 3.8 version
 
 Pandas
